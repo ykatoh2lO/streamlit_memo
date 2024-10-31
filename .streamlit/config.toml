@@ -1,0 +1,17 @@
+# https://docs.streamlit.io/develop/api-reference/configuration/config.toml
+
+[global]
+developmentMode = false
+
+[client]
+toolbarMode = "viewer"
+showSidebarNavigation = false
+
+[server]
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#0095df"

@@ -1,0 +1,1072 @@
+# ---- 宝石一覧 ----------
+GEM:
+  AGATE:
+    JNAME: アゲート
+
+  # 各論あり
+  ALEXANDRITE:
+    JNAME: アレキサンドライト
+    MONTH: 6
+
+  # 各論あり
+  AMBER:
+    JNAME: アンバー（琥珀）
+    MONTH: NULL
+
+  # 各論あり
+  AMETHYST:
+    JNAME: アメシスト
+    MONTH: 2
+
+  AMETRINE:
+    JNAME: アメトリン
+
+  # 各論あり
+  AQUAMARINE:
+    JNAME: アクアマリン
+    MONTH: 3
+
+  AVENTURINE:
+    JNAME: アベンチュリン
+
+  BERYL:
+    JNAME: ベリル
+
+  # 各論あり，マップなし
+  BLOODSTONE:
+    JNAME: ブラッドストーン
+    MONTH: 3
+
+  CHALCEDONY:
+    JNAME: カルセドニー
+
+  # 各論あり
+  CHRYSOBERYL:
+    JNAME: クリソベリル
+    MONTH: 2
+
+  CHRYSOPHRASE:
+    JNAME: クリソプレーズ
+
+  # 各論あり
+  CITRINE:
+    JNAME: シトリン
+    MONTH: 11
+
+  # 各論あり
+  CORAL:
+    JNAME: さんご
+    MONTH: 3
+
+  # 各論あり
+  DIAMOND:
+    JNAME: ダイヤモンド
+    MONTH: 4
+
+  # 各論あり
+  EMERALD:
+    JNAME: エメラルド
+    MONTH: 5
+
+  FELDSPAR:
+    JNAME: フェルスパー
+
+  # 各論あり
+  GARNET:
+    JNAME: ガーネット
+    MONTH: 1
+
+  # 各論あり
+  IOLITE:
+    JNAME: アイオライト
+    MONTH: 3
+
+  # 各論あり
+  JADE:
+    JNAME: ひすい
+    MONTH: 5
+
+  JASPER:
+    JNAME: ジャスパー
+
+  JET:
+    JNAME: ジェット
+
+  # 各論あり
+  KUNZITE:
+    JNAME: クンツァイト
+    MONTH: 9
+
+  KYANITE:
+    JNAME: カイヤナイト
+
+  # 各論あり
+  LAPIS_LAZULI:
+    JNAME: ラピスラズリ
+    MONTH: 12
+
+  # 各論あり
+  MOONSTONE:
+    JNAME: ムーンストーン
+    MONTH: 6
+
+  # 各論あり
+  MORGANITE:
+    JNAME: モルガナイト
+    MONTH: 4
+
+  NEPHRITE:
+    JNAME: ネフライト
+
+  # 各論あり
+  OPAL:
+    JNAME: オパール
+    MONTH: 10
+
+  # 各論あり，マップなし
+  OBSIDIAN:
+    JNAME: オブシディアン（黒曜石）
+    MONTH: NULL
+
+  # 各論あり
+  PEARL:
+    JNAME: 真珠
+    MONTH: 6
+
+  PEARL_CULTURED:
+    JNAME: 養殖真珠
+    MONTH: 6
+
+  # 各論あり
+  PERIDOT:
+    JNAME: ペリドット
+    MONTH: 8
+
+  QUARTZ:
+    JNAME: クォーツ
+
+  # 各論あり，マップなし
+  ROCK_CRYSTAL:
+    JNAME: ロッククリスタル
+    MONTH: NULL
+
+  ROSE_QUARTZ:
+    JNAME: ローズクォーツ
+
+  # 各論あり
+  RUBY:
+    JNAME: ルビー
+    MONTH: 7
+
+  # 各論あり
+  SAPPIRE:
+    JNAME: サファイア
+    MONTH: 9
+
+  # 各論あり，マップなし
+  SARD_ONYX:
+    JNAME: サードオニックス（瑪瑙）
+    MONTH: 8
+
+  # 各論あり
+  SPHENE:
+    JNAME: スフェーン（チタナイト）
+    MONTH: 7
+
+  # 各論あり
+  SPINEL:
+    JNAME: スピネル
+    MONTH: 8
+
+  SUNSTONE:
+    JNAME: サンストーン
+
+  # 各論あり
+  TANZANITE:
+    JNAME: タンザナイト
+    MONTH: 12
+
+  # 各論あり
+  TOPAZ:
+    JNAME: トパーズ
+    MONTH: 11
+
+  # 各論あり
+  TOURMALINE:
+    JNAME: トルマリン
+    MONTH: 10
+
+  # 各論あり
+  TURQUIOSE:
+    JNAME: トルコ石（ターコイズ）
+    MONTH: 12
+
+  # 各論あり
+  ZIRCON:
+    JNAME: ジルコン
+    MONTH: 12
+
+  ZOISITE:
+    JNAME: ゾイサイト
+
+# ---- 鉱物一覧 ----------
+MINERAL:
+  M_DIAMOND:
+    IDX: 1
+    JNAME: ダイヤモンド
+    CRYSTAL: 立方晶系
+    MOHS: "10"
+    GEMS:
+      - DIAMOND
+
+  M_CORUNDUM:
+    IDX: 2
+    JNAME: コランダム
+    CRYSTAL: 三方晶系
+    MOHS: "9"
+    GEMS:
+      - SAPPIRE
+      - RUBY
+
+  M_CHRYSOBERYL:
+    IDX: 3
+    JNAME: クリソベリル
+    CRYSTAL: 直方晶系
+    MOHS: "8.5"
+    GEMS:
+      - CHRYSOBERYL
+      - ALEXANDRITE
+
+  M_TOPAZ:
+    IDX: 4
+    JNAME: トパーズ
+    CRYSTAL: 直方晶系
+    MOHS: "8"
+    GEMS:
+      - TOPAZ
+
+  M_BERYL:
+    IDX: 5
+    JNAME: ベリル
+    CRYSTAL: 六方晶系
+    MOHS: "7.5 ~ 8"
+    GEMS:
+      - MORGANITE
+      - EMERALD
+      - AQUAMARINE
+
+  M_SPINEL:
+    IDX: 6
+    JNAME: スピネル
+    CRYSTAL: 立方晶系
+    MOHS: "7.5 ~ 8"
+    GEMS:
+      - SPINEL
+
+  M_ZIRCON:
+    IDX: 7
+    JNAME: ジルコン
+    CRYSTAL: 正方晶系
+    MOHS: "7.5"
+    GEMS:
+      - ZIRCON
+
+  M_CORDIERITE:
+    IDX: 8
+    JNAME: コーディエライト
+    CRYSTAL: 直方晶系
+    MOHS: "7.5 ~ 8"
+    GEMS:
+      - IOLITE
+
+  M_TOURMALINE:
+    IDX: 9
+    JNAME: トルマリン
+    CRYSTAL: 三方晶系
+    MOHS: "7 ~ 7.5"
+    GEMS:
+      - TOURMALINE
+
+  M_GARNET:
+    IDX: 10
+    JNAME: ガーネット
+    CRYSTAL: 立方晶系
+    MOHS: "6.5 ~ 7.5"
+    GEMS:
+      - GARNET
+
+  M_QUARTZ:
+    IDX: 11
+    JNAME: クォーツ
+    CRYSTAL: 三方晶系
+    MOHS: "7"
+    GEMS:
+      - ROCK_CRYSTAL
+      - CITRINE
+      - AMETHYST
+
+  M_SPODUMENE:
+    IDX: 12
+    JNAME: スポジュメン
+    CRYSTAL: 単斜晶系
+    MOHS: "6.5 ~ 7"
+    GEMS:
+      - KUNZITE
+
+  M_OLIVINE:
+    IDX: 13
+    JNAME: オリビン
+    CRYSTAL: 直方晶系
+    MOHS: "6.5 ~ 7"
+    GEMS:
+      - PERIDOT
+
+  M_JADEITE:
+    IDX: 14
+    JNAME: ジェイダイト
+    CRYSTAL: 単斜晶系
+    MOHS: "6.5 ~ 7"
+    GEMS:
+      - JADE
+
+  M_QUARTZ_CRYPTOCRYSTALLINE:
+    IDX: 15
+    JNAME: クォーツ（潜晶質）
+    CRYSTAL: 三方晶系
+    MOHS: "6.5 ~ 7"
+    GEMS:
+      - SARD_ONYX
+      - BLOODSTONE
+
+  M_ZOISITE:
+    IDX: 16
+    JNAME: ゾイサイト
+    CRYSTAL: 直方晶系
+    MOHS: "6 ~ 7"
+    GEMS:
+      - TANZANITE
+
+  M_OPAL:
+    IDX: 17
+    JNAME: オパール
+    CRYSTAL: 非晶質
+    MOHS: "5.5 ~ 6.5"
+    GEMS:
+      - OPAL
+
+  M_FELDSPAR:
+    IDX: 18
+    JNAME: フェルスパー
+    CRYSTAL: 単斜晶系
+    MOHS: "6"
+    GEMS:
+      - MOONSTONE
+
+  M_TURQUIOSE:
+    IDX: 19
+    JNAME: ターコイズ
+    CRYSTAL: 三斜晶系
+    MOHS: "5 ~ 6"
+    GEMS:
+      - TURQUIOSE
+
+  M_TITANITE:
+    IDX: 20
+    JNAME: チタナイト
+    CRYSTAL: 単斜晶系
+    MOHS: "5 ~ 5.5"
+    GEMS:
+      - SPHENE
+
+  M_LAZULITE:
+    IDX: 21
+    JNAME: ラズライト
+    CRYSTAL: 立方晶系
+    MOHS: "5.5"
+    GEMS:
+      - LAPIS_LAZULI
+
+  M_VOLCANIC_GLASS:
+    IDX: 22
+    JNAME: （火山性）ガラス
+    CRYSTAL: 非晶質
+    MOHS: "5 ~ 5.5"
+    GEMS:
+      - OBSIDIAN
+
+  M_ARAGONITE:
+    IDX: 23
+    JNAME: アラゴナイト
+    CRYSTAL: 直方晶系
+    MOHS: "2.5 ~ 4.5"
+    GEMS:
+      - PEARL
+      - PEARL_CULTURED
+
+  M_CALCITE:
+    IDX: 24
+    JNAME: カルサイト
+    CRYSTAL: 三方晶系
+    MOHS: "3 ~ 4"
+    GEMS:
+      - CORAL
+
+  M_FOSSIL_RESIN:
+    IDX: 25
+    JNAME: 化石樹脂
+    CRYSTAL: 非晶質
+    MOHS: "2 ~ 2.5"
+    GEMS:
+      - AMBER
+
+# ---- 宝石産地 (国のポリゴン) ----------
+MAP:
+  ESP:
+    JNAME: スペイン
+    GEMS:
+      -  AGATE
+      -  AVENTURINE
+      -  QUARTZ
+
+  CHE:
+    JNAME: スイス
+    GEMS:
+      -  QUARTZ
+      -  NEPHRITE
+
+  FRA:
+    JNAME: フランス
+    GEMS:
+      -  SAPPIRE
+
+  GBR:
+    JNAME: イギリス
+    GEMS:
+      -  JET
+
+  NOR:
+    JNAME: ノルウェー
+    GEMS:
+      -  GARNET
+      -  PERIDOT
+
+  DEU:
+    JNAME: ドイツ
+    GEMS:
+      -  AGATE
+
+  CZE:
+    JNAME: チェコ
+    GEMS:
+      -  GARNET
+
+  ITA:
+    JNAME: イタリア
+    GEMS:
+      -  GARNET
+      -  CORAL
+      -  JADE
+      -  NEPHRITE
+      -  PERIDOT
+
+  FIN:
+    JNAME: フィンランド
+    GEMS:
+      -  NEPHRITE
+
+  LTU:
+    JNAME: リトアニア
+    GEMS:
+      -  AMBER
+
+  POL:
+    JNAME: ポーランド
+    GEMS:
+      -  AMBER
+      -  NEPHRITE
+
+  SVK:
+    JNAME: スロバキア
+    GEMS:
+      -  OPAL
+
+  HUN:
+    JNAME: ハンガリー
+    GEMS:
+      -  OPAL
+
+  TUR:
+    JNAME: トルコ
+    GEMS:
+      -  OPAL
+      -  GARNET
+      -  JADE
+
+  IRN:
+    JNAME: イラン
+    GEMS:
+      -  TURQUIOSE
+
+  BHR:
+    JNAME: バーレーン
+    GEMS:
+      -  PEARL
+
+  AFG:
+    JNAME: アフガニスタン
+    GEMS:
+      -  AQUAMARINE
+      -  ALEXANDRITE
+      -  EMERALD
+      -  GARNET
+      -  KUNZITE
+      -  SAPPIRE
+      -  ZIRCON
+      -  SPINEL
+      -  ZOISITE
+      -  TOPAZ
+      -  TOURMALINE
+      -  MOONSTONE
+      -  MORGANITE
+      -  LAPIS_LAZULI
+      -  RUBY
+
+  PAK:
+    JNAME: パキスタン
+    GEMS:
+      -  AQUAMARINE
+      -  EMERALD
+      -  GARNET
+      -  SAPPIRE
+      -  SPINEL
+      -  SPHENE
+      -  ZOISITE
+      -  TOPAZ
+      -  TOURMALINE
+      -  PERIDOT
+      -  MORGANITE
+      -  RUBY
+
+  LKA:
+    JNAME: スリランカ
+    GEMS:
+      -  IOLITE
+      -  AMETHYST
+      -  GARNET
+      -  CHRYSOBERYL
+      -  SAPPIRE
+      -  ZIRCON
+      -  SPINEL
+      -  TOPAZ
+      -  TOURMALINE
+      -  FELDSPAR
+      -  PERIDOT
+      -  RUBY
+      -  ROSE_QUARTZ
+
+  TJK:
+    JNAME: タジキスタン
+    GEMS:
+      -  SPINEL
+      -  PERIDOT
+      -  RUBY
+
+  IND:
+    JNAME: インド
+    GEMS:
+      -  IOLITE
+      -  AQUAMARINE
+      -  AMETHYST
+      -  ALEXANDRITE
+      -  EMERALD
+      -  GARNET
+      -  CHALCEDONY
+      -  QUARTZ
+      -  CHRYSOBERYL
+      -  SAPPIRE
+      -  JASPER
+      -  SPINEL
+      -  DIAMOND
+      -  TOPAZ
+      -  TOURMALINE
+      -  MOONSTONE
+      -  RUBY
+      -  ROSE_QUARTZ
+
+  NPL:
+    JNAME: ネパール
+    GEMS:
+      -  KYANITE
+      -  QUARTZ
+      -  SAPPIRE
+      -  RUBY
+
+  MNG:
+    JNAME: モンゴル
+    GEMS:
+      -  PERIDOT
+
+  RUS:
+    JNAME: ロシア
+    GEMS:
+      -  AMETHYST
+      -  ALEXANDRITE
+      -  AMBER
+      -  EMERALD
+      -  GARNET
+      -  QUARTZ
+      -  SAPPIRE
+      -  JADE
+      -  SPHENE
+      -  DIAMOND
+      -  TOPAZ
+      -  TOURMALINE
+      -  NEPHRITE
+      -  PERIDOT
+      -  MOONSTONE
+      -  LAPIS_LAZULI
+      -  RUBY
+
+  CHN:
+    JNAME: 中国
+    GEMS:
+      -  AQUAMARINE
+      -  AMETHYST
+      -  AMBER
+      -  EMERALD
+      -  GARNET
+      -  SAPPIRE
+      -  TURQUIOSE
+      -  DIAMOND
+      -  TOPAZ
+      -  TOURMALINE
+      -  NEPHRITE
+      -  PERIDOT
+      -  PEARL_CULTURED
+      -  RUBY
+
+  PRK:
+    JNAME: 北朝鮮
+    GEMS:
+      -  AMETHYST
+      -  NEPHRITE
+      -  MOONSTONE
+
+  JPN:
+    JNAME: 日本
+    GEMS:
+      -  GARNET
+      -  QUARTZ
+      -  AMBER
+      -  CORAL
+      -  TOPAZ
+      -  JADE
+      -  PEARL_CULTURED
+
+  LAO:
+    JNAME: ラオス
+    GEMS:
+      -  SAPPIRE
+      -  SPINEL
+      -  RUBY
+
+  MMR:
+    JNAME: ミャンマー
+    GEMS:
+      -  AMBER
+      -  OPAL
+      -  GARNET
+      -  KYANITE
+      -  QUARTZ
+      -  CHRYSOBERYL
+      -  KUNZITE
+      -  SAPPIRE
+      -  ZIRCON
+      -  SPINEL
+      -  SPHENE
+      -  TOPAZ
+      -  TOURMALINE
+      -  JADE
+      -  PERIDOT
+      -  MOONSTONE
+      -  RUBY
+
+  THA:
+    JNAME: タイ
+    GEMS:
+      -  GARNET
+      -  SAPPIRE
+      -  ZIRCON
+      -  RUBY
+
+  KHM:
+    JNAME: カンボジア
+    GEMS:
+      -  SAPPIRE
+      -  ZIRCON
+      -  RUBY
+
+  VNM:
+    JNAME: ベトナム
+    GEMS:
+      -  AQUAMARINE
+      -  SAPPIRE
+      -  ZIRCON
+      -  SPINEL
+      -  TOPAZ
+      -  TOURMALINE
+      -  PERIDOT
+      -  PEARL_CULTURED
+      -  RUBY
+
+  IDN:
+    JNAME: インドネシア
+    GEMS:
+      -  OPAL
+      -  DIAMOND
+
+  AUS:
+    JNAME: オーストラリア
+    GEMS:
+      -  EMERALD
+      -  OPAL
+      -  CHRYSOPHRASE
+      -  CHRYSOBERYL
+      -  SAPPIRE
+      -  JASPER
+      -  DIAMOND
+      -  NEPHRITE
+      -  RUBY
+
+  NCL:
+    JNAME: ニューカレドニア
+    GEMS:
+      -  NEPHRITE
+
+  NZL:
+    JNAME: ニュージーランド
+    GEMS:
+      -  NEPHRITE
+
+  EGY:
+    JNAME: エジプト
+    GEMS:
+      -  PERIDOT
+
+  ERI:
+    JNAME: エリトリア
+    GEMS:
+      -  GARNET
+
+  ETH:
+    JNAME: エチオピア
+    GEMS:
+      -  EMERALD
+      -  OPAL
+      -  GARNET
+
+  SOM:
+    JNAME: ソマリア
+    GEMS:
+      -  EMERALD
+      -  OPAL
+
+  KEN:
+    JNAME: ケニア
+    GEMS:
+      -  AQUAMARINE
+      -  AMETHYST
+      -  EMERALD
+      -  GARNET
+      -  SAPPIRE
+      -  SPINEL
+      -  TOURMALINE
+      -  RUBY
+
+  TZA:
+    JNAME: タンザニア
+    GEMS:
+      -  IOLITE
+      -  AQUAMARINE
+      -  ALEXANDRITE
+      -  EMERALD
+      -  GARNET
+      -  CHRYSOBERYL
+      -  SAPPIRE
+      -  SPINEL
+      -  DIAMOND
+      -  TANZANITE
+      -  TOURMALINE
+      -  FELDSPAR
+      -  RUBY
+
+  MLI:
+    JNAME: マリ
+    GEMS:
+      -  GARNET
+
+  NGA:
+    JNAME: ナイジェリア
+    GEMS:
+      -  AQUAMARINE
+      -  EMERALD
+      -  GARNET
+      -  SAPPIRE
+      -  SPINEL
+      -  TOPAZ
+      -  TOURMALINE
+      -  BERYL
+
+  GIN:
+    JNAME: ギニア
+    GEMS:
+      -  DIAMOND
+
+  GHA:
+    JNAME: ガーナ
+    GEMS:
+      -  DIAMOND
+
+  CAF:
+    JNAME: 中央アフリカ共和国
+    GEMS:
+      -  DIAMOND
+
+  COG:
+    JNAME: コンゴ共和国
+    GEMS:
+      -  DIAMOND
+      -  TOURMALINE
+
+  COD:
+    JNAME: ザイール  # 旧国名，現在はコンゴ民主共和国
+    GEMS:
+      -  TOURMALINE
+
+  AGO:
+    JNAME: アンゴラ
+    GEMS:
+      -  DIAMOND
+
+  ZMB:
+    JNAME: ザンビア
+    GEMS:
+      -  EMERALD
+      -  GARNET
+      -  QUARTZ
+      -  CHRYSOBERYL
+      -  TOPAZ
+      -  TOURMALINE
+      -  BERYL
+
+  NAM:
+    JNAME: ナミビア
+    GEMS:
+      -  GARNET
+      -  QUARTZ
+      -  DIAMOND
+      -  TOPAZ
+      -  TOURMALINE
+      -  BERYL
+      -  MORGANITE
+
+  BWA:
+    JNAME: ボツワナ
+    GEMS:
+      -  DIAMOND
+
+  ZAF:
+    JNAME: 南アフリカ
+    GEMS:
+      -  EMERALD
+      -  GARNET
+      -  QUARTZ
+      -  CHRYSOBERYL
+      -  DIAMOND
+      -  TOURMALINE
+      -  PERIDOT
+      -  RUBY
+
+  ZWE:
+    JNAME: ジンバブエ
+    GEMS:
+      -  AQUAMARINE
+      -  ALEXANDRITE
+      -  EMERALD
+      -  GARNET
+      -  QUARTZ
+      -  CHRYSOBERYL
+      -  SAPPIRE
+      -  SPHENE
+      -  DIAMOND
+      -  TOPAZ
+      -  TOURMALINE
+
+  LSO:
+    JNAME: レソト
+    GEMS:
+      -  DIAMOND
+
+  MWI:
+    JNAME: マラウイ
+    GEMS:
+      -  SAPPIRE
+      -  TOURMALINE
+      -  BERYL
+      -  RUBY
+
+  MOZ:
+    JNAME: モザンビーク
+    GEMS:
+      -  EMERALD
+      -  GARNET
+      -  QUARTZ
+      -  SAPPIRE
+      -  TOPAZ
+      -  TOURMALINE
+      -  BERYL
+      -  MORGANITE
+      -  RUBY
+      -  ROSE_QUARTZ
+
+  MDG:
+    JNAME: マダガスカル
+    GEMS:
+      -  IOLITE
+      -  AQUAMARINE
+      -  AGATE
+      -  ALEXANDRITE
+      -  EMERALD
+      -  OPAL
+      -  GARNET
+      -  QUARTZ
+      -  CHRYSOBERYL
+      -  KUNZITE
+      -  SAPPIRE
+      -  ZIRCON
+      -  SPINEL
+
+  CAN:
+    JNAME: カナダ
+    GEMS:
+      -  AMETHYST
+      -  EMERALD
+      -  OPAL
+      -  GARNET
+      -  SAPPIRE
+      -  DIAMOND
+      -  TOPAZ
+      -  TOURMALINE
+      -  NEPHRITE
+      -  PERIDOT
+
+  USA:
+    JNAME: アメリカ
+    GEMS:
+      -  AQUAMARINE
+      -  EMERALD
+      -  OPAL
+      -  GARNET
+      -  CHALCEDONY
+      -  QUARTZ
+      -  KUNZITE
+      -  SAPPIRE
+      -  SUNSTONE
+      -  TURQUIOSE
+      -  TOPAZ
+      -  TOURMALINE
+      -  PERIDOT
+      -  MOONSTONE
+      -  MORGANITE
+
+  MEX:
+    JNAME: メキシコ
+    GEMS:
+      -  AGATE
+      -  OPAL
+      -  GARNET
+      -  QUARTZ
+      -  SPINEL
+      -  TURQUIOSE
+      -  TOPAZ
+      -  MOONSTONE
+
+  GTM:
+    JNAME: グアテマラ
+    GEMS:
+      -  JADE
+
+  HND:
+    JNAME: ホンジュラス
+    GEMS:
+      -  OPAL
+
+  CUB:
+    JNAME: キューバ
+    GEMS:
+      -  JADE
+
+  COL:
+    JNAME: コロンビア
+    GEMS:
+      -  EMERALD
+      -  SAPPIRE
+
+  VEN:
+    JNAME: ベネズエラ
+    GEMS:
+      -  JASPER
+      -  PEARL
+      -  DIAMOND
+
+  PER:
+    JNAME: ペルー
+    GEMS:
+      -  OPAL
+
+  BOL:
+    JNAME: ボリビア
+    GEMS:
+      -  AMETRINE
+
+  CHL:
+    JNAME: チリ
+    GEMS:
+      -  LAPIS_LAZULI
+
+  BRA:
+    JNAME: ブラジル
+    GEMS:
+      -  AGATE
+      -  AMETHYST
+      -  ALEXANDRITE
+      -  EMERALD
+      -  OPAL
+      -  GARNET
+      -  KYANITE
+      -  CHALCEDONY
+      -  CHRYSOBERYL
+      -  KUNZITE
+      -  CITRINE
+      -  DIAMOND
+      -  TOPAZ
+      -  TOURMALINE
+      -  MORGANITE
+      -  RUBY
+      -  ROSE_QUARTZ
+
+  URY:
+    JNAME: ウルグアイ
+    GEMS:
+      -  AMETHYST
+
+  ARG:
+    JNAME: アルゼンチン
+    GEMS:
+      -  OPAL
+
+  GRL:
+    JNAME: グリーンランド
+    GEMS:
+      -  RUBY
+      -  SAPPIRE

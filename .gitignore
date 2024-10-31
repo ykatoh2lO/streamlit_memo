@@ -1,0 +1,4 @@
+.vscode/
+.venv312/
+__pycache__/
+build/
